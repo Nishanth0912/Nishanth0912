@@ -38,32 +38,13 @@ Responsive restaurant website developed using **HTML**, **CSS**, and **JavaScrip
 Sports ground booking application.
 
 ---
+# 💻 Tech Stack
 
-## 💻 Tech Stack
+<div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode,eclipse,postman"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
-</p>
+</div>
 
 ---
 
