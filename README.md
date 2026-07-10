@@ -48,14 +48,7 @@ Sports ground booking application.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishanth0912&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0912&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
