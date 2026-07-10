@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Nishanth
 
-<!--
-**Nishanth0912/Nishanth0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer
 
-Here are some ideas to get you started:
+I enjoy building responsive web applications using React and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+• Java
+• Spring Boot
+• React
+• HTML
+• CSS
+• JavaScript
+• SQL
+• Git
+
+## Current Project
+
+🌱 FarmSync
+Organic Farming Marketplace
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/nishantharul/
+Email: nilanishanth2000@gmail.com
+Instagram: https://www.instagram.com/_.jerry._18._/
