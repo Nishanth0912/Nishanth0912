@@ -1,217 +1,158 @@
-<div align="center">
+# Hi there 👋, I'm Nishanth A
 
-# Hi 👋 I'm Nishanth A
+<h3 align="center">Software Developer | Java Full Stack Developer | React | Spring Boot | MySQL</h3>
 
-### Software Developer | Java Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:nilanishanth2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Nishanth0912&style=for-the-badge&color=0e75b6"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Developer;Java+Full+Stack+Developer;React+%7C+Spring+Boot+Developer;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
+</p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Nishanth A
+I'm a **Software Developer** passionate about building responsive, scalable, and user-friendly web applications.
 
-Role: Software Developer
-
-Location: Chennai, Tamil Nadu, India
-
-Education:
-  Bachelor of Engineering (EEE)
-
-Passionate About:
-  - Full Stack Development
-  - Clean UI Design
-  - REST APIs
-  - Problem Solving
-
-Current Focus:
-  - Spring Boot
-  - REST APIs
-  - JWT Authentication
-  - Docker
-  - Microservices
-
-Career Goal:
-  Become an Industry-ready Software Developer
-```
+- 💼 Software Developer
+- 🌱 Currently learning **Spring Boot, REST APIs, JWT Authentication, and Docker**
+- ⚛️ Building modern applications using **React**
+- ☕ Strong foundation in **Core Java**
+- 🗄️ Experienced with **MySQL**
+- 🚀 Interested in Full Stack Development
+- 📍 Chennai, Tamil Nadu, India
+- 🎯 Open to Software Developer opportunities
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌱 FarmSync
+### 🌱 FarmSync
+Organic farming marketplace built using **React** and **Tailwind CSS**.
 
-> Organic farming marketplace built using **React** and **Tailwind CSS**.
+### ✅ ToDo App
+Task management application with CRUD functionality using **React**.
 
-**Tech Stack**
+### 🍽️ Restaurant Website
+Responsive restaurant website developed using **HTML**, **CSS**, and **JavaScript**.
 
-`React` `Tailwind CSS` `JavaScript`
-
----
-
-## ✅ ToDo App
-
-> Task management application with CRUD functionality.
-
-**Tech Stack**
-
-`React` `JavaScript`
+### 📚 BookMyGround
+Sports ground booking application.
 
 ---
 
-## 🍽 Restaurant Website
+## 💻 Tech Stack
 
-> Responsive restaurant website.
+### Languages
 
-**Tech Stack**
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
 
-`HTML` `CSS` `JavaScript`
+### Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
 
-## 📚 BookMyGround
+### Backend
 
-> Sports ground booking application.
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-**Tech Stack**
+### Tools & Technologies
 
-`React`
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,git,github,vscode,eclipse,postman"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
+</p>
 
 ---
 
-# 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nishanth0912&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0912&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishanth0912&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0912&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Nishanth0912&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nishanth0912&theme=tokyonight"/>
+</p>
 
 ---
 
-<div align="center">
+## 📈 Contribution Graph
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanth0912&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-# 🛠 Tools
-
-<div align="center">
-
-| IDE | Version Control | API Testing | Design |
-|------|-----------------|------------|--------|
-| VS Code | Git | Postman | Figma |
-
-</div>
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Spring Boot
 - REST APIs
 - JWT Authentication
 - Docker
 - Microservices
-- System Design Basics
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Goals for 2026
 
-- ✅ Become a Software Developer
-- ✅ Build 10+ Full Stack Projects
-- ✅ Master Spring Boot
-- ✅ Learn AWS Cloud
+- ✅ Master Java Full Stack Development
+- ✅ Build production-ready Spring Boot applications
 - ✅ Contribute to Open Source
-- ✅ Improve DSA & Problem Solving
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Secure a Software Developer role
 
 ---
 
-# 📈 Coding Activity
+## 🤝 Connect With Me
 
-```text
-💻 Java                 ████████████░░░░░░░ 60%
+<p align="left">
 
-⚛ React                ██████████░░░░░░░░░ 50%
-
-☕ Spring Boot          ███████░░░░░░░░░░░░ 35%
-
-🗄 MySQL                █████████░░░░░░░░░░ 45%
-
-🎨 HTML/CSS            ███████████████░░░░ 80%
-```
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/nishantharul/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://instagram.com/_.jerry._18._" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:nilanishanth2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
+
+## 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=Nishanth0912&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+
 
 <div align="center">
 
 ## 💡 Developer Philosophy
 
 > **"Building software is more than writing code—it's about solving real-world problems with simplicity, scalability, and continuous learning."**
+
+### ⭐ "Code. Learn. Build. Improve. Repeat."
 
 ⭐ If you like my work, consider exploring my repositories and connecting with me!
 
