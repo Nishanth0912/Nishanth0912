@@ -70,11 +70,8 @@ Sports ground booking application.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nishanth0912&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0912&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishanth0912&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth0912&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -82,9 +79,7 @@ Sports ground booking application.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nishanth0912&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Nishanth0912&theme=tokyonight"/>
 </p>
 
 ---
